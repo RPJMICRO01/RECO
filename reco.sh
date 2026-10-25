@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 
 #para los colores
 blueC="\e[0;34m\033[1m"
